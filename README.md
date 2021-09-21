@@ -1,4 +1,6 @@
 # Afk Bot
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Installation
 
  1. [Download](https://github.com/itsmeR1FAI/testbt) latest package.
