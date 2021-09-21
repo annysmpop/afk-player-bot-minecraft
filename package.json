@@ -1,5 +1,5 @@
 {
-  "name": "afk-bot",
+  "name": "afk-player-bot-minecraft",
   "version": "1.1.0",
   "description": "Afk bot for minecraft servers.",
   "main": "bot.js",
