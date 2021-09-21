@@ -1,21 +1,21 @@
 {
     "bot-account":{ 
-        "username": "Khubo",
+        "username": "Afk",
         "password": "",
-        "type": "mojang"
+        "type": ""
     },
 
     "server":{
-        "ip": "frozygg.survival-zone.com",
-        "port": 25827,
+        "ip": "annysmp.aternos.me",
+        "port": "64697",
         "version": "1.17.1"
     },
 
     "position":{
-        "enabled": true,
-        "x": 9999,
-        "y": 9999,
-        "z": 9999
+        "enabled": false,
+        "x": 0,
+        "y": 0,
+        "z": 0
     },
 
     "utils":{
@@ -35,10 +35,10 @@
             "repeat-delay": 360,
 
             "messages": [
-                "Hai Semuwa ", 
-                "SanZ Gay ", 
-                "Cookie Tolol", 
-                "Test "
+                "Hi Anny hear", 
+                "hello", 
+                "Can I play", 
+                "I am afk"
             ]
         },
 
